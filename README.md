@@ -1,8 +1,8 @@
 # Identificação
 
-* Nome: 
-* Email (@ccc): 
-* Matrícula: 
+* Nome: Caio Cesar Vieira Cavalcanti
+* Email (@ccc): <caio.cesar.vieira.cavalcanti@ccc.ufcg.edu.br>
+* Matrícula: 123110825
 
 # Roteiro: isAVL
 
@@ -22,9 +22,9 @@
 
 > Executando os testes: `gradle test` na raiz do projeto.
 
-## A tarefa. 
+## A tarefa
 
-Você deve implementar o método isAVL, que verifica se uma BST é AVL, dada a definição que vimos em sala de aula. Para isso, você vai precisar implementar alguns métodos auxiliares, que 
+Você deve implementar o método isAVL, que verifica se uma BST é AVL, dada a definição que vimos em sala de aula. Para isso, você vai precisar implementar alguns métodos auxiliares, que
 também estão na classe BST.
 
 ## Entregando o lab
@@ -37,6 +37,6 @@ também estão na classe BST.
 
 > Passo 3. Submeta as suas modificações para o repositório
 
-  * `git pull`
-  * `git commit -m "entregando o lab de algoritmos recursivos"`
-  * `git push origin main`
+* `git pull`
+* `git commit -m "entregando o lab de algoritmos recursivos"`
+* `git push origin main`
